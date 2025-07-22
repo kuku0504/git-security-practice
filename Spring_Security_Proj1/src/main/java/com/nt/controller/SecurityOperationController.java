@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/security-api")
 public class SecurityOperationController {
       public String getMsg() {
-    	  return "good morning";
+    	  return "good morning kuku";
       }
 }
